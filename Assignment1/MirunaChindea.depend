@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1539070430 source:c:\users\student\desktop\mirunachindea\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Profiler.h"
+
+1539069818 c:\users\student\desktop\mirunachindea\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1539250252 source:c:\users\miruna\desktop\faculta\y2 s1\fa\lab work\l2\assignment1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Profiler.h"
+
+1539175306 c:\users\miruna\desktop\faculta\y2 s1\fa\lab work\l2\assignment1\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1539675196 source:c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\assignment1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Profiler.h"
+
+1539175306 c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\assignment1\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

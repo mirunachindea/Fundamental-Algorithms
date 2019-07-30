@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1544511435 source:c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\assignment9\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Profiler.h"
+
+1543905630 c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\assignment9\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

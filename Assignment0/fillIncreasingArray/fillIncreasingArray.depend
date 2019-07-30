@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1538586082 source:c:\users\miruna\desktop\new folder\fillincreasingarray\main.cpp
+	<iostream>
+	"Profiler.h"
+
+1538580524 c:\users\miruna\desktop\new folder\fillincreasingarray\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1538586157 source:c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\lab0\fillincreasingarray\main.cpp
+	<iostream>
+	"Profiler.h"
+
+1538580524 c:\users\miruna\desktop\faculta\y2 s1\fa\assignments\lab0\fillincreasingarray\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
